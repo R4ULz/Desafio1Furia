@@ -44,6 +44,8 @@ src/
 
 ## 🚀 Instalação e Execução
 
+### Foi Disponibilizado um arquivo .apk, pois é uma aplicação android e não há outra maneira de rodar a aplicação. Caso queira rodar sem baixar o apk, abaixo está o passo a passo:
+
 1. Clone o repositório:
 
 ```bash
@@ -64,8 +66,6 @@ npx expo start
 ```
 
 Escaneie o QR code com o app **Expo Go** no Android.
-Foi Disponibilizado um arquivo .apk, pois é uma aplicação android e não há outra maneira de rodar a aplicação.
-
 ---
 
 ## ⚠️ Possíveis Problemas
