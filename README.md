@@ -64,15 +64,15 @@ npx expo start
 ```
 
 Escaneie o QR code com o app **Expo Go** no Android.
+Foi Disponibilizado um arquivo .apk, pois é uma aplicação android e não há outra maneira de rodar a aplicação.
 
 ---
 
 ## ⚠️ Possíveis Problemas
 
 * É necessário conexão com a internet, pois algumas imagens são carregadas da web.
-* Para carregar SVGs da web, considere usar [`react-native-remote-svg`](https://github.com/kristerkari/react-native-remote-svg) ou converter para componentes.
 
 ---
 
-Feito por \Raul Araujo.
+Feito por Raul Araujo.
 
